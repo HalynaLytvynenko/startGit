@@ -1,0 +1,4 @@
+Hello Halyna!
+Well done!
+Next stage in Git! One more time:)
+Commit.
